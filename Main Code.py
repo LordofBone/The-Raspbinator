@@ -13,7 +13,7 @@ import cv2
 import numpy as np
 from PIL import Image
 import time
-import bot_9_import as b9
+import Chatbot as b9
 
 # Import the PCA9685 module.
 import Adafruit_PCA9685
